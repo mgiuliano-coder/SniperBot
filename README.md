@@ -1,6 +1,8 @@
 # SniperBot
 This was my final project for the Computer Science 2 course I took at Montgomery County Community College in 2015. We created an autonomous, color seeking robot, called Sniper Bot. We had one month to complete this project.
 
+**Video Demo** - https://www.youtube.com/watch?v=ccbSXfK0J4M&t=239s
+
 **Project Members**
 * Michael Giuliano
 * Christian Renner
